@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 -->
 
 ![](https://komarev.com/ghpvc/?username=rijinmk)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=rijinmk&show_icons=true&theme=radical)
