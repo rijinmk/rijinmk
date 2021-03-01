@@ -27,8 +27,6 @@
 <br>
 
 <p></p>
-<p></p>
-<p></p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rijinmk&show_icons=true&locale=en&layout=compact" alt="rijinmk" /></p>
 
