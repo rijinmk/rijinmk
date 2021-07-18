@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rijinmk" alt="rijinmk" /></a> </p>
 
-- 🔭 I’m currently working on **Abu Dhabi Government Websites (For Work) + A Song Quiz Game**
+- 🔭 I’m currently working as a Software Engineer at Tenderd
 
 - 🌱 I’m currently learning **Advanced NodeJS, Electronics, Philosophy**
 
