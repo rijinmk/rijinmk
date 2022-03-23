@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rijinmk" alt="rijinmk" /></a> </p>
 
-- 🔭  &nbsp; I’m currently working as a Software Engineer at Banque Saudi Franci
+- 🔭  &nbsp; I’m currently working as a Software Engineer at Banque Saudi Fransi
 
 - 🌱  &nbsp; I’m currently learning **Advanced NodeJS, Electronics, Philosophy**
 
