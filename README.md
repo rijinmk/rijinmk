@@ -16,7 +16,7 @@
 - 📫  &nbsp; How to reach me **rijin.mk9@gmail.com**
 
 - ⚡ &nbsp; Fun fact **I am a coconut**
-<br>
+<br/>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/rijin-mk" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="rijin-mk" height="30" width="40" /></a>
@@ -24,12 +24,16 @@
 <a href="https://www.hackerrank.com/rijin_mk9" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="rijin_mk9" height="30" width="40" /></a>
 </p>
 
-<br>
-
 <p></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rijinmk&show_icons=true&locale=en&layout=compact" alt="rijinmk" /></p>
+<br/>
 
-<p></p>
+![rijinmk's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=rijinmk&theme=radical&layout=compact)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rijinmk&show_icons=true&locale=en" alt="rijinmk" /></p>
+<br/>
+
+![rijinmk's github stats](https://github-readme-stats.vercel.app/api?username=rijinmk&show_icons=true&theme=radical&include_all_commits=true)
+
+<br/>
+
+![Asmit's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=rijinmk&hide_border=true&theme=redical)
