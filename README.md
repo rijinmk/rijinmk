@@ -34,6 +34,3 @@
 
 ![rijinmk's github stats](https://github-readme-stats.vercel.app/api?username=rijinmk&show_icons=true&theme=radical&include_all_commits=true)
 
-<br/>
-
-![Asmit's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=rijinmk&hide_border=true&theme=redical)
