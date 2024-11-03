@@ -15,7 +15,7 @@
 
 - 📫  &nbsp; How to reach me **rijin.mk9@gmail.com**
 
-- ⚡ &nbsp; Fun fact **I am a coconut**
+- 🥦 &nbsp; Fun fact **I am a broccoli**
 <br/>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
