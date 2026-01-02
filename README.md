@@ -48,7 +48,7 @@
 - 🧱 **Next.js apps that scale** (TypeScript, clean architecture, reusable components)
 - 🎨 **Design-system flavored UI** (tokens, consistency, “looks simple but polished”)
 - 🤖 **Automation / AI tooling** (internal tools, smarter workflows, experiments)
-- 💪 **Tracking systems** (fitness / habit / data dashboards — I like measurable progress)
+- 💪 **Tracking systems** (fitness / habit / data dashboards, I like measurable progress)
 
 ---
 
