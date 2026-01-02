@@ -64,15 +64,8 @@
 
 <!-- ======= STATS (most common + clean) ======= -->
 ### 📊 GitHub at a glance
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=rijinmk&show_icons=true&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rijinmk&layout=compact&hide_border=true" />
-</p>
-
-<p align="center">
-  <img height="175" src="https://github-readme-streak-stats.herokuapp.com/?user=rijinmk&hide_border=true" />
-</p>
-
+![Metrics](https://metrics.lecoq.io/rijinmk)
+<img src="https://streak-stats.demolab.com?user=rijinmk&hide_border=true" />
 
 ---
 
