@@ -62,13 +62,6 @@
 
 ---
 
-<!-- ======= STATS (most common + clean) ======= -->
-### 📊 GitHub at a glance
-![Metrics](https://metrics.lecoq.io/rijinmk)
-<img src="https://streak-stats.demolab.com?user=rijinmk&hide_border=true" />
-
----
-
 <!-- ======= CONNECT (your original links kept) ======= -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
