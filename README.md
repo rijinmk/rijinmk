@@ -75,8 +75,3 @@
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="rijin_mk9" height="30" width="40" />
   </a>
 </p>
-
-<!-- ======= FOOTER (nice finish) ======= -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=70&section=footer&text=Code.%20Coffee.%20Ship.%20Repeat.&fontSize=22" />
-</p>
