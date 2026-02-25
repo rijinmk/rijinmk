@@ -3,9 +3,9 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=170&section=header&text=Rijin%20Mk&fontSize=55&fontAlignY=35&desc=I%20love%20code%20and%20coffee&descAlignY=60" />
 </p>
 
-<h3 align="center">Hi 👋, I'm Rijin Mk</h3>
+<h3 align="center">Rijin Mk</h3>
 <p align="center">
-  Senior Front-End Engineer @ Fuze • Full-stack builder • Systems + UI obsessive
+  Senior Front-End Engineer @ Fuze • Full-stack Engineer
 </p>
 
 <p align="center">
