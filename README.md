@@ -51,16 +51,6 @@
 
 ---
 
-<!-- ======= SKILLS ICONS (clean, modern) ======= -->
-### 🧩 Tech I use often
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,nodejs,python,postgres,tailwind,vercel,aws,git&perline=11" />
-  </a>
-</p>
-
----
-
 <!-- ======= CONNECT (your original links kept) ======= -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
