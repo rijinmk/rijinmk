@@ -36,7 +36,7 @@
 
 - 🔭 &nbsp; I’m currently working as a **Senior Front-End Engineer at Fuze**
 - 🌱 &nbsp; I’m currently learning **Advanced NodeJS, Electronics, Philosophy**
-- 👨‍💻 &nbsp; All of my projects are available at **http://www.rijinmk.com/**
+- 👨‍💻 &nbsp; Working on my portfolio (but work gets in the way) **http://www.rijinmk.com/**
 - 💬 &nbsp; Ask me about **Python and Javascript**
 - 📫 &nbsp; How to reach me **rijin.mk9@gmail.com**
 
